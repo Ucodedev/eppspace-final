@@ -1,4 +1,4 @@
-  import pygame
+import pygame
 import sys
 from game import Game
 from sounds import SoundManager
